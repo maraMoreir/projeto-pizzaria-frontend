@@ -1,5 +1,5 @@
 # projeto pizzaria / FRONTEND
-PostgreSQL, NodeJS, ReactJS, TypeScript, Sass
+PostgreSQL, NodeJS, NextJS, TypeScript, Sass
 
 
 ## 🛠️ Abrir e rodar o projeto
